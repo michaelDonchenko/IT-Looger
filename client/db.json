@@ -1,0 +1,70 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Switched network card on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-10-12T10:53:49.429Z"
+    },
+    {
+      "id": 2,
+      "message": "Monitor on station 001 broke, checking",
+      "attention": false,
+      "tech": "mike d",
+      "date": "2020-10-12T10:53:22.366Z"
+    },
+    {
+      "id": 3,
+      "message": "Server 1212 is down",
+      "attention": false,
+      "tech": "mike D",
+      "date": "2020-10-12T13:07:12.152Z"
+    },
+    {
+      "id": 4,
+      "message": "Servers are down for NA region, fixed",
+      "attention": false,
+      "tech": "nat nat",
+      "date": "2020-10-12T10:53:59.880Z"
+    },
+    {
+      "message": "printers don't print for section 11 ",
+      "attention": true,
+      "tech": "mike d",
+      "date": "2020-10-12T11:14:31.609Z",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "message": "Hard drive fail station 05",
+      "attention": true,
+      "tech": "nat nat",
+      "date": "2020-10-12T12:25:01.025Z"
+    },
+    {
+      "message": "Pc 7 not loading ",
+      "attention": false,
+      "tech": "pedik vanuch",
+      "date": "2020-10-12T12:46:28.467Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "name": "nat",
+      "lastName": "nat"
+    },
+    {
+      "id": 2,
+      "name": "mike",
+      "lastName": "D"
+    },
+    {
+      "id": 3,
+      "name": "sam",
+      "lastName": "smith"
+    }
+  ]
+}

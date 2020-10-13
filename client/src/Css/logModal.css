@@ -1,0 +1,31 @@
+
+  /* label color */
+  .myLable {
+    color: gray !important;
+  }
+  /* label focus color */
+  .myLable {
+    color: gray !important;
+  }
+  /* label underline focus color */
+  .myTextInput {
+    border-bottom: 0.5px solid grey !important;
+    box-shadow: 0 0.5px 0 0 grey !important;
+  }
+  /* valid color */
+  .myTextInput {
+    border-bottom: 0.5px solid grey !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+  }
+  /* invalid color */
+  .input-field input[type=text].invalid {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  }
+  /* icon prefix focus color */
+  .input-field .prefix.active {
+    color: #000;
+  }
+       
+
+  
